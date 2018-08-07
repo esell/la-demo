@@ -1,0 +1,6 @@
+{
+    "host":"YOURSERVERNAME.mysql.database.azure.com",
+    "database":"YOURDBNAME",
+    "username":"YOURDBUSERNAME",
+    "password":"YOURDBPASSWORD"
+}

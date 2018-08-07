@@ -1,0 +1,6 @@
+{
+    "host":"esell-la-db.mysql.database.azure.com",
+    "database":"speakerlist",
+    "username":"esell@esell-la-db",
+    "password":"T4c0b3l!"
+}
